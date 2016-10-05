@@ -4,7 +4,7 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I am a physicist with a strong interest in applied science. My research deals with Complex Networks, Data Science and their application to social systems in general.
+I am a physicist with a strong interest in applied sciences. My research deals with Complex Networks, Data Science and their application to social systems in general.
 
 I am currently a PhD Student at Queen Mary University of London in the [Complex Systems and Networks group](http://www.maths.qmul.ac.uk/complex-systems-and-networks/complex-systems-and-networks-group) under the supervision of [Vito Latora](http://www.maths.qmul.ac.uk/~latora/). 
 
