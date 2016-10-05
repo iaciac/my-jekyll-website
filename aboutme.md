@@ -4,13 +4,11 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a physicist with a strong interest in applied science. My research deals with Complex Networks, Data Science and their application to social systems in general.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am currently a PhD Student at Queen Mary University of London in the [Complex Systems and Networks group](http://www.maths.qmul.ac.uk/complex-systems-and-networks/complex-systems-and-networks-group) under the supervision of Prof. [Vito Latora](http://www.maths.qmul.ac.uk/~latora/). 
 
-What else do you need?
+Previously, I worked at the [Institute for Scientific Interchange (ISI) Foundation](http://www.isi.it/en/home) in Turin, within the [Data Science](http://www.isi.it/en/research/data-science) and [Mathematics & Foundation of Complex Systems](http://www.isi.it/en/research/mathematics-foundation-of-complex-systems) groups, under the supervision of [Laetitia Gauvin](https://laetitiagauvin.github.io/) and [Giovanni Petri](https://lordgrilo.github.io/).
 
-### my history
+I received my Master's degree in **Physics of Complex Systems** from the University of Torino in October 2015.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
