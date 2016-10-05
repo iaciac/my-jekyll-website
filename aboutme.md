@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-bigimg: /img/path.jpg
 #subtitle: Why you'd want to go on a date with me
 ---
 
