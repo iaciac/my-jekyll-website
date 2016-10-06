@@ -9,5 +9,5 @@ subtitle: Not that you are actually supposed to
 Mile End Road, London E1 4NS, UK
 
 # Mail
-i[dot]iacopini[at]qmul[dot]ac[dot]uk
+i [dot] iacopini [at] qmul [dot] ac [dot] uk
 
