@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-#subtitle: Why you'd want to go on a date with me
+title: Contact me
+subtitle: Not that you are actually supposed to
 ---
 
-I am a physicist with a strong interest in applied sciences. My research deals with Complex Networks, Data Science and their application to social systems in general.
+# Office
+[School of Mathematical Sciences](https://www.google.co.uk/maps/place/School+of+Mathematical+Sciences/@51.522453,-0.0431612,15z/data=!4m5!3m4!1s0x0:0xb123923a6b7fd3a8!8m2!3d51.522453!4d-0.0431612), Queen Mary University of London
+Mile End Road, London E1 4NS, UK
 
-I am currently a **PhD Student** at Queen Mary University of London in the [Complex Systems and Networks group](http://www.maths.qmul.ac.uk/complex-systems-and-networks/complex-systems-and-networks-group) under the supervision of [Vito Latora](http://www.maths.qmul.ac.uk/~latora/). 
+# Mail
+i[dot]iacopini[at]qmul[dot]ac[dot]uk
 
-Previously, I worked at the [Institute for Scientific Interchange (ISI) Foundation](http://www.isi.it/en/home) in Turin within the [Data Science](http://www.isi.it/en/research/data-science) and [Mathematics & Foundation of Complex Systems](http://www.isi.it/en/research/mathematics-foundation-of-complex-systems) groups, under the supervision of [Laetitia Gauvin](https://laetitiagauvin.github.io/) and [Giovanni Petri](https://lordgrilo.github.io/).
-
-I received my Master's degree in **Physics of Complex Systems** from the University of Torino in October 2015.
