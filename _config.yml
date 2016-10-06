@@ -24,6 +24,7 @@ description: My personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Contact: "contact"
   Download:
     - CV: "http://iacopini.it/about/CV.pdf"
   #Resources:
