@@ -2,6 +2,7 @@
 layout: page
 title: Contact me
 subtitle: Not that you are actually supposed to
+bigimg: /img/london_skyline.jpg
 ---
 
 # Office
