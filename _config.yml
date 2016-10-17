@@ -91,7 +91,7 @@ url-pretty: "iacopini.it"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "72770695"
+google_analytics: "UA-85794775-1"
 
 # Facebook App ID
 # fb_app_id: ""
