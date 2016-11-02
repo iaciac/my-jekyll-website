@@ -16,6 +16,6 @@ Mile End Road, London E1 4NS, UK
 
 i [dot] iacopini [at] qmul [dot] ac [dot] uk
 
-{% render_map %}
+
 
 
