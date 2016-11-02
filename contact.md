@@ -18,5 +18,4 @@ i [dot] iacopini [at] qmul [dot] ac [dot] uk
 
 {% render_map %}
 
-{% include jekyll_mapping.html %}
-</body>
+
