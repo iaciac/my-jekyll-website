@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_d3
 title: About me
 ---
 
