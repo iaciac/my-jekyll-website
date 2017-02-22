@@ -12,6 +12,3 @@ Office: Queens Building W313
 
 
 i [dot] iacopini [at] qmul [dot] ac [dot] uk
-
-
-
